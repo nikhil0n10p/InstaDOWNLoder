@@ -28,13 +28,8 @@ start_msg = '''Welcome :)
 Send a post link to download.'''
 
 help_msg = '''This bot is open source and you are welcome to contribute and improve it.
-https://github.com/arashnm80/best-instagram-downloader
 
-You can give me energy by giving a star in github :)'''
-
-end_msg = '''You can use my *Spotify Downloader* too: @SpotSeekBot
-
-Subscribe to [My YouTube](https://www.youtube.com/@Arashnm80) for more🔥'''
+You can give me energy by giving a star :)'''
 
 fail_msg = '''Sorry, my process wasn't successful.
 But you can try again another time or with another link.'''
@@ -46,5 +41,4 @@ Motivate me to add support of reels and stories by subscribing to [my youtube](h
 
 reel_msg = '''reel links are not supported at the moment.
 You can send post links instead.
-
-Motivate me to add support of reels and stories by subscribing to [my youtube](https://www.youtube.com/@Arashnm80)'''
+'''
